@@ -1,0 +1,45 @@
+{
+    "hello_i_am": "Salut, je suis",
+    "web_developer": "Développeur Web",
+    
+    "home": "acceuil",
+    "about": "à propos",
+    "work": "projets",
+    "skills": "compétences",
+    "career": "parcours",
+    "testimonials": "Recommendation",
+
+    "Web App": "App Web",
+    "All": "Tous",
+    "central_hospital": "Gestion des rendez-vous",
+    "central_hospital_desc": "Création d’une application Web pour un centre hospitalier pour la gestion des rendez-vous des patients en utilisant ASP.NET.",
+    "photo_management": "Gestion des photo",
+    "photo_management_desc": "Création d’une application Web pour une agence de photographie pour la gestion des photo en utilisant LARAVEL.",
+
+    "career_title1": "Parcours Professionnel",
+    "career_title2": "académique",
+    "production_operator": "Operateur de Production",
+    "production_operator_desc": "Suivie informatique d'un système de personnalisation des passports ",
+    "bac": "Baccalauréat",
+    "bac_spec": "Science de la Vie et la Terre",
+    "bac_complex": "Complexe Scolaire Khalil Abdelhafid ( Sale Al Jadida )",
+    "dts": "Diplôme de Technicien Spécialisé (DTS)",
+    "dts_spec": "Développement Informatique",
+    "dts_complex": "ISTA Hay Salam",
+    "lp": "Licence Professionnelle",
+    "lp_spec": "Développement Web",
+    "lp_complex": "IFIAG (Sous tutelle de l'Université Paris 13)",
+    "lus": "Licence d'Université Spécialisée",
+    "lus_spec": "Ingénierie Logicielle et Systèmes d'Information",
+    "lus_complex": "ENSA (Université Ibn Tofail Kénitra)",
+
+    "no_testi": "Pas de recommendation pour le moment",
+
+    "contact_me": "Contactez moi",
+    "your_name": "Votre nom",
+    "your_email": "Votre Email",
+    "your_message": "Votre message",
+    "send_message": "Envoyer",
+    "sending": "En cours d'envoi",
+    "thank_you": "Merci pour votre contact!"
+}

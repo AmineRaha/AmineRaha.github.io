@@ -1,0 +1,45 @@
+{
+    "hello_i_am": "Hello, I am",
+    "web_developer": "Web Developer",
+    
+    "home": "Home",
+    "about": "About",
+    "work": "Projects",
+    "skills": "Skills",
+    "career": "Career",
+    "testimonials": "Testimonials",
+
+    "Web App": "Web App",
+    "All": "All",
+    "central_hospital": "Appointment Management",
+    "central_hospital_desc": "Creation of a Web application for a hospital center to manage their patients appointments using ASP.NET",
+    "photo_management": "Photos Managment",
+    "photo_management_desc": "Creation of a Web application for a photography agency to manage their photos using Laravel",
+
+    "career_title1": "Professional Career",
+    "career_title2": "Academic Background",
+    "production_operator": "Production Operator",
+    "production_operator_desc": "IT monitoring of a passport personalization system",
+    "bac": "Baccalaureate",
+    "bac_spec": "Science of Life and Earth",
+    "bac_complex": "School Complex Khalil Abdelhafid ( Sale Al Jadida )",
+    "dts": "Specialized Technician Diploma (DTS)",
+    "dts_spec": "IT Development",
+    "dts_complex": "ISTA Hay Salam",
+    "lp": "Professionnal License",
+    "lp_spec": "Web Development",
+    "lp_complex": "IFIAG (Under tutelage of the Paris 13 University)",
+    "lus": "Specialized University License",
+    "lus_spec": "Software Engeneering and Information System",
+    "lus_complex": "ENSA (Ibn Tofail University Kénitra)",
+
+    "no_testi": "No testimonials at the moment",
+
+    "contact_me": "Contact me",
+    "your_name": "Your name",
+    "your_email": "Your Email",
+    "your_message": "Your message",
+    "send_message": "Send message",
+    "sending": "Sending",
+    "thank_you": "Thank you for getting in touch !"
+}

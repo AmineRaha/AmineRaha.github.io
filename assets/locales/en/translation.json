@@ -15,6 +15,8 @@
     "central_hospital_desc": "Creation of a Web application for a hospital center to manage their patients appointments using ASP.NET",
     "photo_management": "Photos Managment",
     "photo_management_desc": "Creation of a Web application for a photography agency to manage their photos using Laravel",
+    "welcome_center": "German welcome center",
+    "welcome_center_desc": "Creation of a Web site for a welcome center for immigrant in Germany using React.",
 
     "career_title1": "Professional Career",
     "career_title2": "Academic Background",
@@ -28,7 +30,7 @@
     "dts_complex": "ISTA Hay Salam",
     "lp": "Professionnal License",
     "lp_spec": "Web Development",
-    "lp_complex": "IFIAG (Under tutelage of the Paris 13 University)",
+    "lp_complex": "Paris 13 University",
     "lus": "Specialized University License",
     "lus_spec": "Software Engeneering and Information System",
     "lus_complex": "ENSA (Ibn Tofail University Kénitra)",

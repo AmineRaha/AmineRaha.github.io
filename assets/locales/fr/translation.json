@@ -15,6 +15,8 @@
     "central_hospital_desc": "Création d’une application Web pour un centre hospitalier pour la gestion des rendez-vous des patients en utilisant ASP.NET.",
     "photo_management": "Gestion des photo",
     "photo_management_desc": "Création d’une application Web pour une agence de photographie pour la gestion des photo en utilisant LARAVEL.",
+    "welcome_center": "Centre d'accueil Allemand",
+    "welcome_center_desc": "Création d’un site web pour un centre accueil des immigrant dans l’Allemagne en utilisant React.",
 
     "career_title1": "Parcours Professionnel",
     "career_title2": "académique",
@@ -28,7 +30,7 @@
     "dts_complex": "ISTA Hay Salam",
     "lp": "Licence Professionnelle",
     "lp_spec": "Développement Web",
-    "lp_complex": "IFIAG (Sous tutelle de l'Université Paris 13)",
+    "lp_complex": "Université Paris 13",
     "lus": "Licence d'Université Spécialisée",
     "lus_spec": "Ingénierie Logicielle et Systèmes d'Information",
     "lus_complex": "ENSA (Université Ibn Tofail Kénitra)",
